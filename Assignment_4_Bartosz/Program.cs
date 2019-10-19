@@ -7,7 +7,7 @@ namespace Assignment_4_Bartosz
     {
         static void Main(string[] args)
         {
-            
+            new Server().ServerStart();
 
         }
     }
